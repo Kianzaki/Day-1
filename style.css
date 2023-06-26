@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace; 
+    font-size: 48px;
+    text-shadow: 2px 2px #490404;
+    
+    
+}
+
+p1{
+    color: rgb(115, 71, 13);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    transform: translateX(-50%) translateY(-50%);
+}
